@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "2WcJYFJ+nqV6OLD6P/+0s+wtGLsj+3vui5YqXW+Sw999xKlkD3f2ZNJytYQjLfoIBsAEwOTSAhuQPBAlia18Ow==",
+  "success": true,
+  "projectFilePath": "/Users/jackson/Developer/dotnet-projects/tp-testes/RealEstate.WebApi/RealEstate.WebApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/jackson/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/jackson/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/jackson/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/jackson/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/jackson/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/jackson/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
