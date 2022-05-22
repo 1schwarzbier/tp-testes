@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealEstate.WebApi", "RealEstate.WebApi\RealEstate.WebApi.csproj", "{56529311-5712-4D16-9E97-D43B2A3ADF7C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealEstate.UnitTests", "RealEstate.UnitTests\RealEstate.UnitTests.csproj", "{105A5AAF-5ED1-44E5-856F-9E5D668830CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealEstate", "RealEstate\RealEstate.csproj", "{933CC09E-8187-45C9-BE8F-6C931F351D09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{56529311-5712-4D16-9E97-D43B2A3ADF7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56529311-5712-4D16-9E97-D43B2A3ADF7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56529311-5712-4D16-9E97-D43B2A3ADF7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{105A5AAF-5ED1-44E5-856F-9E5D668830CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{105A5AAF-5ED1-44E5-856F-9E5D668830CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{105A5AAF-5ED1-44E5-856F-9E5D668830CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{105A5AAF-5ED1-44E5-856F-9E5D668830CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{933CC09E-8187-45C9-BE8F-6C931F351D09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{933CC09E-8187-45C9-BE8F-6C931F351D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{933CC09E-8187-45C9-BE8F-6C931F351D09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{933CC09E-8187-45C9-BE8F-6C931F351D09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
