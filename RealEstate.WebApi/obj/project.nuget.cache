@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2WcJYFJ+nqV6OLD6P/+0s+wtGLsj+3vui5YqXW+Sw999xKlkD3f2ZNJytYQjLfoIBsAEwOTSAhuQPBAlia18Ow==",
+  "dgSpecHash": "s8Iv6R2ZgoYuvWBmSnAeZQWXjtZ8BCGTpU4XaTeYPN+K+sI1o2+p5XVQN8YzXQk0ymYSE4/RHWWdQsE6ANeuzA==",
   "success": true,
   "projectFilePath": "/Users/jackson/Developer/dotnet-projects/tp-testes/RealEstate.WebApi/RealEstate.WebApi.csproj",
   "expectedPackageFiles": [
+    "/Users/jackson/.nuget/packages/fluentvalidation/11.0.1/fluentvalidation.11.0.1.nupkg.sha512",
     "/Users/jackson/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/jackson/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
     "/Users/jackson/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
