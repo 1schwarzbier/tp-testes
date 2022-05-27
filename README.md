@@ -4,9 +4,9 @@
 
 | Nome                              | Matrícula  |
 |-----------------------------------|------------|
-| Eduardo Paiva Dias                |            |
+| Eduardo Paiva Dias                | 2018126657 |
 | Jackson Medeiros de Paula Pereira | 2018088089 |
-| João Morais                       |            |
+| João Morais                       | 2018088097 |
 | Roberto Rosmaninho                |            |
 
 ## Sistema
