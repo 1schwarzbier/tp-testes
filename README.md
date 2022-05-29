@@ -17,5 +17,5 @@ casas ou apartamentos, para venda em um marketplace digital.
 ## Tecnologias:
 
 - **Backend**: .NET 6
-- **Frameworks de Tests**: NUnit e FluentAssertions
+- **Frameworks de Tests**: NUnit, FluentAssertions e Moq
 - **Database**: TBD
