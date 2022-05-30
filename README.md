@@ -4,10 +4,10 @@
 
 | Nome                              | Matrícula  |
 |-----------------------------------|------------|
-| Eduardo Paiva Dias                |            |
+| Eduardo Paiva Dias                | 2018126657 |
 | Jackson Medeiros de Paula Pereira | 2018088089 |
-| João Morais                       |            |
-| Roberto Rosmaninho                |            |
+| João Morais                       | 2018088097 |
+| Roberto Rosmaninho                | 2018054940 |
 
 ## Sistema
 
@@ -18,4 +18,3 @@ casas ou apartamentos, para venda em um marketplace digital.
 
 - **Backend**: .NET 6
 - **Frameworks de Tests**: NUnit, FluentAssertions e Moq
-- **Database**: TBD
