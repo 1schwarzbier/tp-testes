@@ -1,33 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jackson/Developer/dotnet-projects/tp-testes/RealEstate.WebApi/RealEstate.WebApi.csproj": {}
+    "C:\\Users\\Igor\\source\\repos\\tp-testes\\RealEstate.WebApi\\RealEstate.WebApi.csproj": {}
   },
   "projects": {
-    "/Users/jackson/Developer/dotnet-projects/tp-testes/RealEstate.WebApi/RealEstate.WebApi.csproj": {
+    "C:\\Users\\Igor\\source\\repos\\tp-testes\\RealEstate.WebApi\\RealEstate.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jackson/Developer/dotnet-projects/tp-testes/RealEstate.WebApi/RealEstate.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Igor\\source\\repos\\tp-testes\\RealEstate.WebApi\\RealEstate.WebApi.csproj",
         "projectName": "RealEstate.WebApi",
-        "projectPath": "/Users/jackson/Developer/dotnet-projects/tp-testes/RealEstate.WebApi/RealEstate.WebApi.csproj",
-        "packagesPath": "/Users/jackson/.nuget/packages/",
-        "outputPath": "/Users/jackson/Developer/dotnet-projects/tp-testes/RealEstate.WebApi/obj/",
+        "projectPath": "C:\\Users\\Igor\\source\\repos\\tp-testes\\RealEstate.WebApi\\RealEstate.WebApi.csproj",
+        "packagesPath": "C:\\Users\\Igor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Igor\\source\\repos\\tp-testes\\RealEstate.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/jackson/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Igor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/jackson/Developer/dotnet-projects/tp-testes/RealEstate/RealEstate.csproj": {
-                "projectPath": "/Users/jackson/Developer/dotnet-projects/tp-testes/RealEstate/RealEstate.csproj"
+              "C:\\Users\\Igor\\source\\repos\\tp-testes\\RealEstate\\RealEstate.csproj": {
+                "projectPath": "C:\\Users\\Igor\\source\\repos\\tp-testes\\RealEstate\\RealEstate.csproj"
               }
             }
           }
@@ -65,26 +67,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/jackson/Developer/dotnet-projects/tp-testes/RealEstate/RealEstate.csproj": {
+    "C:\\Users\\Igor\\source\\repos\\tp-testes\\RealEstate\\RealEstate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jackson/Developer/dotnet-projects/tp-testes/RealEstate/RealEstate.csproj",
+        "projectUniqueName": "C:\\Users\\Igor\\source\\repos\\tp-testes\\RealEstate\\RealEstate.csproj",
         "projectName": "RealEstate",
-        "projectPath": "/Users/jackson/Developer/dotnet-projects/tp-testes/RealEstate/RealEstate.csproj",
-        "packagesPath": "/Users/jackson/.nuget/packages/",
-        "outputPath": "/Users/jackson/Developer/dotnet-projects/tp-testes/RealEstate/obj/",
+        "projectPath": "C:\\Users\\Igor\\source\\repos\\tp-testes\\RealEstate\\RealEstate.csproj",
+        "packagesPath": "C:\\Users\\Igor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Igor\\source\\repos\\tp-testes\\RealEstate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/jackson/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Igor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -123,7 +127,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
