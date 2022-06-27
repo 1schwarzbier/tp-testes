@@ -4,7 +4,7 @@ on:
   push:
     branches: [ master ]
   pull_request:
-    types: [opened, reopened]
+    types: [opened, reopened, synchronize]
     branches: [ master, develop ]
 
 jobs:
@@ -30,4 +30,4 @@ jobs:
     - name: Build
       run: dotnet build --no-restore
     - name: Test
-      run: dotnet test --no-build --verbosity normal
+      run: dotnet test RealEstate.UnitTests --no-build --verbosity normal
