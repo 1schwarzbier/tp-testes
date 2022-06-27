@@ -5,11 +5,9 @@ namespace RealEstate.Services.PropertyService.Validator;
 
 public class UpdatePropertyValidator : AbstractValidator<UpdatePropertyRequest>
 {
-    public UpdatePropertyValidator(int id)
+    public UpdatePropertyValidator()
     {
         RuleFor(r => r.Id).NotEmpty();
-        RuleFor(r => r).MustAsync((_, _) => IdMustExist(id))
-            .WithMessage($"The specified 'id' = {id} was not found.");
         RuleFor(r => r.Name).NotEmpty();
         RuleFor(r => r.Description).NotEmpty();
         RuleFor(r => r.ImageUrl).Must(CustomValidators.LinkMustBeAUri);
@@ -24,10 +22,5 @@ public class UpdatePropertyValidator : AbstractValidator<UpdatePropertyRequest>
         RuleFor(r => r.BathroomCount).GreaterThan(0);
         RuleFor(r => r.RoomCount).GreaterThan(0);
         RuleFor(r => r.ParkingCount).GreaterThanOrEqualTo(0);
-    }
-
-    private async Task<bool> IdMustExist(int id)
-    {
-        return true;
     }
 }

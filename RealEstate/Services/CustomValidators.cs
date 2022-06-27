@@ -5,12 +5,12 @@ public static class CustomValidators
     private static IEnumerable<string> PropertyType => new []{ "Apartment", "House"};
     private static IEnumerable<string> SaleMode => new []{ "Sale", "Rent"};
     
-    public static bool MustBeValidPropertyType(string value)
+    public static bool MustBeValidPropertyType(string? value)
     {
         return !string.IsNullOrWhiteSpace(value) && PropertyType.Contains(value.Trim());
     }
     
-    public static bool MustBeValidSaleMode(string value)
+    public static bool MustBeValidSaleMode(string? value)
     {
         return !string.IsNullOrWhiteSpace(value) && SaleMode.Contains(value.Trim());
     }
