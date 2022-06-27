@@ -18,7 +18,7 @@ public class UpdatePropertyValidatorTests
     [SetUp]
     public void Setup()
     {
-        _validator = new UpdatePropertyValidator(10);
+        _validator = new UpdatePropertyValidator();
     }
 
     [Test]

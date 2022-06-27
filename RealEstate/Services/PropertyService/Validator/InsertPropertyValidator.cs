@@ -7,6 +7,7 @@ public class InsertPropertyValidator : AbstractValidator<InsertPropertyRequest>
 {
     public InsertPropertyValidator()
     {
+        RuleFor(r => r.Id).NotEmpty();
         RuleFor(r => r.Name).NotEmpty();
         RuleFor(r => r.Description).NotEmpty();
         RuleFor(r => r.ImageUrl).Must(CustomValidators.LinkMustBeAUri);
